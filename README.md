@@ -4,3 +4,4 @@
 3. [Сортировки](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homework/tree/main/Sort)
 4. [Динамические массивы](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homework/tree/main/Stack)
 5. [Таблицы](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homework/tree/main/Hash)
+6. [Пирамиды и деревья поиска](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homework/tree/main/Trees)
